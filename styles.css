@@ -8,6 +8,7 @@ body{
      /* background-image: linear-gradient(rgb(214, 214, 214),grey,rgb(214, 214, 214)); */
 }
  .nav{
+      width:100%;
      height: 80px;
      border-radius:0 0 15px 15px;
      border-bottom: -50px;
